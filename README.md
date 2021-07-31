@@ -1,7 +1,7 @@
  <div>
   <a href="https://github.com/FredVieira7">
-  <img height="185em" src="https://github-readme-stats.vercel.app/api?username=FredVieira7&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
-  <img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FredVieira7&layout=compact&langs_count=7&theme=synthwave"/>
+  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=FredVieira7&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
+  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FredVieira7&layout=compact&langs_count=7&theme=synthwave"/>
 </div>
   
   ##
