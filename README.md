@@ -28,13 +28,7 @@
   <img height="150em" align="center" src="https://github-readme-stats.vercel.app/api?username=FredVieira7&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
   <img height="150em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FredVieira7&layout=compact&langs_count=7&theme=synthwave"/>
 </div>
-  
-  <br>
-  <br>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=fredvieira7&layout=compact&langs_count=7&theme=synthwave" align="center" height="150em">  
-</div>
   
 <br><br>
    
